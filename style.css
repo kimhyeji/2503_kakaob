@@ -97,7 +97,7 @@ a {
     width: 24px;
     height: 24px;
     display: inline-block;
-    background-image: url(/images/img_kabang_220615.png);
+    background-image: url(./images/img_kabang_220615.png);
 }
 
 /* 탑바 시작 */
@@ -223,7 +223,7 @@ a {
     margin-left: 10px;
     width: 12px;
     height: 12px;
-    background: url(/images/svg_line_arrow_down.svg);
+    background: url(./images/svg_line_arrow_down.svg);
     background-size: 12px 12px;
     transition: transform .3s ease;
 }
@@ -542,7 +542,7 @@ a {
 
 .md_sec_5_wrap {
     height: 750px;
-    background: #fff url(/images/home_map.png) no-repeat -12% 50%;
+    background: #fff url(./images/home_map.png) no-repeat -12% 50%;
 }
 .md_sec_5 .img-box {
     width: 408px;
@@ -1029,7 +1029,7 @@ footer .box_3 > .menu_box_2 ul > li > a {
 
 footer .box_3 > .menu_box_2 .ico_sns {
     height: 100%;
-    background: url(/images/ico_sns.png);
+    background: url(./images/ico_sns.png);
 }
 
 footer .box_3 > .menu_box_2 .ico_sns_facebook {
